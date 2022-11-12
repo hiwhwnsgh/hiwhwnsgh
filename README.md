@@ -21,7 +21,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwhwnsgh)](https://s
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=C%2B%2B&amp;logoColor=white)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hiwhwnsgh@gmail.com)
-<a href="https://www.instagram.com/junho1838/" target="_blank" rel="noopener"><img style="height: auto; margin-left: 10px; margin-right: 10px;" src="http://img.shields.io/badge/-Instargram-ff69b4?style=flat&amp;logo=Instagram&amp;link=https://www.instagram.com/junho1838/" /></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hiwhwnsgh@gmail.com) <a href="https://www.instagram.com/junho1838/" target="_blank"><img style="height: auto; margin-left: 10px; margin-right: 10px;" src="http://img.shields.io/badge/-Instargram-ff69b4?style=flat&amp;logo=Instagram&amp;link=https://www.instagram.com/junho1838/" /></a>
