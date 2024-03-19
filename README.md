@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwhwnsgh)](https://solved.ac/hiwhwnsgh)
 <hr> <h3>My tech stack 📚</h3> </hr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?&style=for-the-badge&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=C%2B%2B&amp;logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=Oracle&amp;logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&amp;logo=Mysql&amp;logoColor=white)
