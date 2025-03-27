@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=150&section=header&text=Junho&nbsp;Cho&fontSize=50&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiwhwnsgh&count_bg=%235F84D7&title_bg=%235F84D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwhwnsgh&show_icons=true&theme=radical) [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwhwnsgh)](https://solved.ac/hiwhwnsgh)
