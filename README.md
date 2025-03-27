@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=150&section=header&text=Junho&nbsp;Cho&fontSize=50&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn)
-
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwhwnsgh&show_icons=true&theme=radical) [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwhwnsgh)](https://solved.ac/hiwhwnsgh)
 <hr> <h3>My tech stack 📚</h3> </hr>
 
 ![Java](https://img.shields.io/badge/Java-red?&style=for-the-badge&logo=Java&logoColor=white)
